@@ -1,0 +1,14 @@
+{
+  "name": "testing-i",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/spinon187/testing-i.git",
+  "author": "spinon187 <spinon187@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.1.0"
+  },
+  "scripts": {
+    "test": "jest --watch"
+  }
+}
